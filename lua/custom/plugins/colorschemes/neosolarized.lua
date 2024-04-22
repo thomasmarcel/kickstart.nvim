@@ -1,0 +1,1 @@
+return { 'Tsuzat/NeoSolarized.nvim' }
