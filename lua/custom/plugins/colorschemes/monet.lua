@@ -1,0 +1,1 @@
+return { 'fynnfluegge/monet.nvim' }
